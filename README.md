@@ -1,9 +1,19 @@
 # TITAN: Trillion-scale Intelligent Training Architecture for Networks
 
-[![PyPI version](https://img.shields.io/pypi/v/titan-ai.svg)](https://pypi.org/project/titan-ai/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/pypi/v/titanai-shivay.svg)](https://pypi.org/project/titanai-shivay/)
 
 **TITAN** is a high-performance training engine designed to tackle the "Memory Wall" in trillion-parameter model training. It implements 7 core pillars of architectural innovation to enable training large models on commodity hardware with extreme memory efficiency.
+
+---
+
+## Technical Specs
+
+- **Pillars**: 7-tier architectural stack.
+- **Backend**: Pure PyTorch for production compatibility.
+- **Optimization**: ASDT (Adaptive Sparse Delta Training) combined with Tensor Ring factorizations.
+- **PyPI**: [titanai-shivay](https://pypi.org/project/titanai-shivay/)
+
+*Developed by Shivay @ AI Nexus Pro.*
 
 ---
 
