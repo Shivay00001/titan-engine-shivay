@@ -70,13 +70,13 @@ In our production stress tests (6-layer, 256-dim Transformer on a 4GB GPU):
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under a **Proprietary / All Rights Reserved** license. Commercial use and redistribution require explicit permission.
 
 ---
 
-## 🤝 Contributing
+## 💰 Commercial Support & Licensing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+TITAN is designed for enterprise-scale AI infrastructure. For commercial licensing inquiries, custom CUDA kernel optimization, or private cluster deployment, please reach out to **Shivay**.
 
 **Author**: Shivay
 **Project**: AI Nexus Pro
