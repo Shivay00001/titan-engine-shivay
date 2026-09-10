@@ -90,3 +90,8 @@ TITAN is designed for enterprise-scale AI infrastructure. For commercial licensi
 
 **Author**: Shivay
 **Project**: AI Nexus Pro
+
+
+## Prerequisites
+- Required environment and dependencies
+
